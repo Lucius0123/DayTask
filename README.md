@@ -1,7 +1,4 @@
 
-Clone the repository
-git clone https://github.com/yourusername/daytask.git
-
 DayTask - Flutter Task Management App
 
 A modern task management application built with Flutter and Supabase. DayTask allows users to create, manage, and organize their tasks with a clean and intuitive interface.
